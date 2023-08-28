@@ -1,5 +1,4 @@
-#Given two numbers N and M. 
-#Print the summation of their last digits.
+#https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F
 
 a,b=map(int,input().split())
 a1=a%10
