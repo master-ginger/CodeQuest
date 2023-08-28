@@ -1,5 +1,4 @@
-#Given three numbers A, B, C. Print these numbers in ascending order followed by a 
-#blank line and then the values in the sequence as they were read.
+#https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T
 
 def sorted(brr):
     brr.sort()
